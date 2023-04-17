@@ -1,0 +1,4 @@
+[autorun]
+open=winopen "$EXEDIR$\index.html"
+action=Deschide manualul
+icon=icon.ico
